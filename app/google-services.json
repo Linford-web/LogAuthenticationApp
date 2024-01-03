@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234373390142",
+    "project_id": "logg-fd669",
+    "storage_bucket": "logg-fd669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234373390142:android:64ab75cb57421ebbda166f",
+        "android_client_info": {
+          "package_name": "com.example.log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnZHeqR9W0t_NgMtj9ngLSvvH9V4j_YdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
